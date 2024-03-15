@@ -1,6 +1,6 @@
 names = []
 phone_numbers = []
-num = int(input("Enter number of contacy you want to save: "))
+num = int(input("Enter number of contacy you want to save:  "))
 for i in range(num):
     name = input("Name: ")
     phone_number = input("Phone Number: ")
