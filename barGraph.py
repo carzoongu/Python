@@ -1,6 +1,6 @@
 import matplotlib.pyplot as pyplot
 
-labels = ('python', 'scala', 'c#', 'java', 'PHP')
+labels =  ('python', 'scala', 'c#', 'java', 'PHP')
 index = (1, 2, 3, 4, 5)
 sizes = [45, 10, 15, 30, 22]
 
